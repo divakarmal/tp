@@ -11,7 +11,7 @@ title: User Guide
     + [Viewing help : help](#help-command)
     + [Adding a patient: add](#add-command)
     + [Deleting a patient : delete](#delete-command)
-    + [Listing all persons : list](#list-command)
+    + [Listing all patients : list](#list-command)
     + [Exiting the program : exit](#exit-command)
     + [Saving the data](#saving)
 + [FAQ](#faq)
@@ -55,7 +55,7 @@ MediBook is a **desktop app for managing patient details, optimized for use via 
 
 ### Viewing help : `help` <a id="help-command"></a>
 
-Shows a message explaning how to access the help page.
+Shows a message explaining how to access the help page.
 
 Format: `help`
 
