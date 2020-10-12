@@ -113,6 +113,30 @@ public class Patient {
         }
     }
 
+    public String getStringEmail() {
+        if (getEmail().isPresent()) {
+            return getEmail().get().toString();
+        } else {
+            return "N/A";
+        }
+    }
+
+    public String getStringIC() {
+        return getIc().ic;
+    }
+
+    public String getStringName(){
+        return this.name.fullName;
+    }
+
+    public String getStringDOB() {
+        return getDateOfBirth().value;
+    }
+
+    public String getStringPhone(){
+        return getPhone().value;
+    }
+
     public Optional<Address> getAddress() {
         return address;
     }
