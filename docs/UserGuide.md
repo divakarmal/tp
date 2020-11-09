@@ -451,5 +451,6 @@ Action | Format, Examples
 **Add Note** | `addnote [d/DATE] c/CONTENT_OF_MEDICAL_NOTE` <br> e.g. `addnote c/Patient is having fever. Prescribed panadol.`
 **Edit Note** | `editnote INDEX [d/DATE] [c/CONTENT_OF_MEDICAL_NOTE]` <br> e.g. `editnote 1 d/20-02-2018 c/Patient is having migraine.`
 <div style="page-break-after: always;"></div>
+
 **Delete Note** | `deletenote INDEX` <br> e.g. `deletenote 1`
 **Exit** | `exit`
