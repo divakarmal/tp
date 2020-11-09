@@ -28,7 +28,7 @@ This user guide contains everything that you will need to know about MediBook. T
 [Section 5. Command summary](#5-command-summary) summarizes the format for each command in a table. This is particularly useful for users who simply wish to have a quick reference on the correct format for the commands.
 
 --------------------------------------------------------------------------------------------------------------------
-
+<div style="page-break-after: always;"></div>
 
 ## 2. Quick start
 
