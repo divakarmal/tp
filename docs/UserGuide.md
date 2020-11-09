@@ -341,6 +341,7 @@ when on the main list and then `access`-ing the patient's index on the filtered 
 * You can only edit notes that are authored by you.
 * `INDEX` refers to the index of the medical note displayed in the list of medical notes.
 * If you change the date of the medical note, the new date cannot be in the future.
+<div style="page-break-after: always;"></div>
 
 **Example:**
 
@@ -448,6 +449,5 @@ Action | Format, Examples
 **Access** | `access INDEX` <br> e.g., `access 1`
 **Add Note** | `addnote [d/DATE] c/CONTENT_OF_MEDICAL_NOTE` <br> e.g. `addnote c/Patient is having fever. Prescribed panadol.`
 **Edit Note** | `editnote INDEX [d/DATE] [c/CONTENT_OF_MEDICAL_NOTE]` <br> e.g. `editnote 1 d/20-02-2018 c/Patient is having migraine.`
-<div style="page-break-after: always;"></div>
 **Delete Note** | `deletenote INDEX` <br> e.g. `deletenote 1`
 **Exit** | `exit`
