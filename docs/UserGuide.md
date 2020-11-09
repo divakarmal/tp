@@ -51,6 +51,8 @@ After starting up MediBook, you should be greeted by the login screen as seen be
 
 <img src="images/screenshots/login.PNG">
 
+<div style="page-break-after: always;"></div>
+
 After clicking on the `Create` button, you should see the account creation page as seen below.
 Proceed with filling in the relevant details for your account.
 For more information about account creation, refer to [Section 3.1 Login and Create Account](#31-login-and-create-account).
