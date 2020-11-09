@@ -135,6 +135,8 @@ Alternatively, you can also login as an **administrative staff** using the usern
 As an **administrative staff**, you can only add, edit, delete and find patients. 
 You are unable to add, edit or delete medical notes.
 
+<div style="page-break-after: always;"></div>
+
 #### 3.1.2 Creating Account
 
 When creating your new account, fill in your desired `username`, `password`, your `name` and your `MCR`, then click create.
@@ -149,6 +151,8 @@ When creating your new account, fill in your desired `username`, `password`, you
 
 At any point when using the app, the user can choose to logout and return to the login screen by either using the option
 in the menu bar at the top or using the key `F2`.
+
+<div style="page-break-after: always;"></div>
 
 ### 3.2 Commands
 
@@ -178,6 +182,8 @@ Shows a message explaining how to access the help page.
 `help`
 
 <img src="images/screenshots/helpCmd.PNG">
+
+<div style="page-break-after: always;"></div>
 
 #### 3.2.2 Listing all patients: `list`
 
