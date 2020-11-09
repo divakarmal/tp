@@ -153,7 +153,6 @@ At any point when using the app, the user can choose to logout and return to the
 in the menu bar at the top or using the key `F2`.
 
 <div style="page-break-after: always;"></div>
-
 ### 3.2 Commands
 
 Use the follow commands by typing into the command box and hitting enter.
