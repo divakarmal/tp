@@ -388,6 +388,7 @@ Exits the program.
 **Format:** 
 
 `exit`
+<div style="page-break-after: always;"></div>
 
 ### 3.3 Charts
 
