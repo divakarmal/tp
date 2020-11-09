@@ -109,6 +109,8 @@ specified patient in MediBook can be added, edited, deleted or found using comma
   * `HEIGHT` must be a whole number between 1 - 299 inclusive and is measured in cms.
   * `WEIGHT` must be a positive number correct to 1 decimal place and is measured in kgs.
   * `BLOOD_TYPE` must be a valid blood type i.e. one of A, B, O or AB followed by '+' or '-". For example A+, AB- etc.
+  <div style="page-break-after: always;"></div>
+  
   * If multiple values for the same personal detail field are given, MediBook accepts the last value. 
     Eg. if you type `add i/S9123456A n/Divakar d/29-02-2000 p/91234567 b/A+ b/O+`, O+ will be accepted as the actual blood type.
   * For medical detail fields i.e. `ALLERGY`, `CONDITION` and `TREATMENT`, any number of entries can be specified, following the given format for each entry.
