@@ -398,6 +398,7 @@ record for a particular date can only be derived if the patient also has both th
 
 <img src="images/screenshots/chartScreenShot.PNG">
 
+<div style="page-break-after: always;"></div>
 
 ### 3.4 Data
 
