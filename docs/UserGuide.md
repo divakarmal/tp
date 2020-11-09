@@ -369,6 +369,7 @@ If you are a doctor, you can delete an existing medical note belonging to your p
 when on the main list and then `access`-ing the patient's index on the filtered list.
 * You can only delete notes that are authored by you.
 * `INDEX` refers to the index of the medical note displayed in the list of medical notes.
+<div style="page-break-after: always;"></div>
 
 **Example:**
 
