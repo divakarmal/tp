@@ -153,6 +153,7 @@ At any point when using the app, the user can choose to logout and return to the
 in the menu bar at the top or using the key `F2`.
 
 <div style="page-break-after: always;"></div>
+
 ### 3.2 Commands
 
 Use the follow commands by typing into the command box and hitting enter.
@@ -171,6 +172,8 @@ Use the follow commands by typing into the command box and hitting enter.
   e.g. if the command specifies `n/NAME p/PHONE_NUMBER`, `p/PHONE_NUMBER n/NAME` is also acceptable.
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 #### 3.2.1 Viewing help : `help`
 
